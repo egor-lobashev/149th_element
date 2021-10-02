@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 660623e181b348e899ead2aad44fe750
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 684137545236226381
+    second: walk_amogus_0
+  - first:
+      213: -2644290540548468393
+    second: walk_amogus_1
+  - first:
+      213: -8915258167197575931
+    second: walk_amogus_2
+  - first:
+      213: -7151305879828787983
+    second: walk_amogus_3
+  - first:
+      213: -8909714299934179933
+    second: walk_amogus_4
+  - first:
+      213: 7597328652614972885
+    second: walk_amogus_5
+  - first:
+      213: -365753393919745885
+    second: walk_amogus_6
+  - first:
+      213: -3437630521193590190
+    second: walk_amogus_7
+  - first:
+      213: -7640590696332088432
+    second: walk_amogus_8
+  - first:
+      213: 3813752786588316109
+    second: walk_amogus_9
+  - first:
+      213: -6631870991247256317
+    second: walk_amogus_10
+  - first:
+      213: 4999796155040210261
+    second: walk_amogus_11
+  - first:
+      213: -4276706823824002744
+    second: walk_amogus_12
+  - first:
+      213: -2041907208658473403
+    second: walk_amogus_13
+  - first:
+      213: -5457192923516389618
+    second: walk_amogus_14
+  - first:
+      213: -7576315914112854394
+    second: walk_amogus_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_amogus_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 7
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4419907, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d412051097b8e7900800000000000000
+      internalID: 684137545236226381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 80
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751deaf63c79d4bd0800000000000000
+      internalID: -2644290540548468393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 7
+        height: 21
+      alignment: 9
+      pivot: {x: 0.56629646, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505d9479ee3a64480800000000000000
+      internalID: -8915258167197575931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc84a8013571cc90800000000000000
+      internalID: -7151305879828787983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 7
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5497224, y: 0.00000018165225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad7436cc065a5480800000000000000
+      internalID: -8909714299934179933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 53
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5330d38222f6960800000000000000
+      internalID: 7597328652614972885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 53
+        width: 7
+        height: 21
+      alignment: 9
+      pivot: {x: 0.45856476, y: 0.00000018165225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a02500e9359ceaf0800000000000000
+      internalID: -365753393919745885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 53
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252173b11451b40d0800000000000000
+      internalID: -3437630521193590190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 8
+        height: 21
+      alignment: 9
+      pivot: {x: 0.69244814, y: -0.00000009082613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba8f64e3b27f590800000000000000
+      internalID: -7640590696332088432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 27
+        width: 6
+        height: 22
+      alignment: 9
+      pivot: {x: 0.93621606, y: 0.0034989445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1b0c904fb2de430800000000000000
+      internalID: 3813752786588316109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 8
+        height: 21
+      alignment: 9
+      pivot: {x: 0.7020705, y: -0.00000009082613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3055d7a787cd6f3a0800000000000000
+      internalID: -6631870991247256317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 27
+        width: 6
+        height: 22
+      alignment: 9
+      pivot: {x: 0.9233856, y: 0.0069979755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d198aec18d26540800000000000000
+      internalID: 4999796155040210261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 8
+        height: 21
+      alignment: 9
+      pivot: {x: 0.3460412, y: -0.00000022706531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8413b7d7dc516a4c0800000000000000
+      internalID: -4276706823824002744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 6
+        height: 22
+      alignment: 9
+      pivot: {x: 0.12793303, y: -0.0034992804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e2a935630b9a3e0800000000000000
+      internalID: -2041907208658473403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 8
+        height: 21
+      alignment: 9
+      pivot: {x: 0.3460412, y: -0.0036659127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07b70313f72444b0800000000000000
+      internalID: -5457192923516389618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_amogus_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4
+        width: 6
+        height: 22
+      alignment: 9
+      pivot: {x: 0.1151034, y: -0.0034992804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6861a2131d48bd690800000000000000
+      internalID: -7576315914112854394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

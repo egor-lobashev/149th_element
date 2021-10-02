@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: facility
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+    totalSpriteSurfaceArea: 546
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -6495395148488111059, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -7698507073462276597, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: 6737235062660471417, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: 8504309265159174943, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: 5701738217046473274, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -2905238902317612342, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -1681031985285765919, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -2542385713633384167, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -8358804807245779647, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: 2941118056471540202, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -8469275715099452280, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -4534378431337378297, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -4089443841380021510, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -2696548893443979746, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -7209046881459373728, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: 6568990839422665700, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -6557854720937141198, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  - {fileID: -1781965657844442320, guid: ebc79109b19194b5d8695f7065444d7c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - lamp_0
+  - lamp_1
+  - flash_0
+  - flash_1
+  - facility_stuff_222
+  - l2_0
+  - l2_1
+  - facility_stuff_10
+  - lights_1
+  - lights_0
+  - lights_3
+  - lights_2
+  - lights_4
+  - l1_3
+  - l1_2
+  - l1_1
+  - l1_0
+  - facility_stuff_333
+  m_RenderDataMap: {}
+  m_Tag: facility
+  m_IsVariant: 0

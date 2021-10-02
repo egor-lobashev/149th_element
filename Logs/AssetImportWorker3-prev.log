@@ -1,0 +1,19 @@
+Using pre-set license
+Desktop is 1366 x 768 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+/home/moscow/Desktop/149th element
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+35689
+Successfully changed project path to: /home/moscow/Desktop/149th element
+/home/moscow/Desktop/149th element
+Using Asset Import Pipeline V2.
