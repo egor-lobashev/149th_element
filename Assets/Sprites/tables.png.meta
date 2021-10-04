@@ -10,10 +10,25 @@ TextureImporter:
     second: tables_1
   - first:
       213: -8322095005871798569
-    second: tables_2
+    second: mag_0
   - first:
       213: -7463191768073228646
-    second: tables_3
+    second: tables_2
+  - first:
+      213: -7308827652493619046
+    second: tables_4
+  - first:
+      213: 6108256169031641754
+    second: tables_6
+  - first:
+      213: -838583098727435395
+    second: rad_0
+  - first:
+      213: -4103257146400986289
+    second: mag_1
+  - first:
+      213: -3802241408845095393
+    second: rad_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -107,7 +122,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 18
+        y: 48
         width: 15
         height: 15
       alignment: 6
@@ -128,7 +143,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 19
-        y: 17
+        y: 47
         width: 15
         height: 19
       alignment: 6
@@ -145,13 +160,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tables_2
+      name: mag_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 0
-        width: 15
-        height: 16
+        x: 35
+        y: 42
+        width: 9
+        height: 8
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,13 +181,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tables_3
+      name: tables_2
       rect:
         serializedVersion: 2
-        x: 27
-        y: 2
-        width: 4
-        height: 6
+        x: 2
+        y: 30
+        width: 15
+        height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,6 +197,111 @@ TextureImporter:
       bones: []
       spriteID: a9e206de0aa6d6890800000000000000
       internalID: -7463191768073228646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tables_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 31
+        width: 12
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90d09059f3d19a90800000000000000
+      internalID: -7308827652493619046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tables_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 44
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a28307f92e4c450800000000000000
+      internalID: 6108256169031641754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rad_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7374bd5d11cc54f0800000000000000
+      internalID: -838583098727435395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mag_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 42
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bafa68d5d4e07c0800000000000000
+      internalID: -4103257146400986289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rad_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ed1837599bb3bc0800000000000000
+      internalID: -3802241408845095393
       vertices: []
       indices: 
       edges: []

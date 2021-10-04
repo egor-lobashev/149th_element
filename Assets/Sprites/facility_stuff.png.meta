@@ -83,6 +83,9 @@ TextureImporter:
   - first:
       213: -1681031985285765919
     second: l2_1
+  - first:
+      213: 4631371921259460121
+    second: facility_stuff_18
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -545,6 +548,27 @@ TextureImporter:
       bones: []
       spriteID: 1e4e8fcd056cba8e0800000000000000
       internalID: -1681031985285765919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facility_stuff_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 12
+        height: 36
+      alignment: 9
+      pivot: {x: 0.41178957, y: 1.0182357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916736d6930f54040800000000000000
+      internalID: 4631371921259460121
       vertices: []
       indices: 
       edges: []
